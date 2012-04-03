@@ -4,7 +4,7 @@
 
 ## Experience
 
-### [Mojo Media Labs](http://mojomedialabs.com) // Director of Technology // Irving, TX // 8/2011-Present
+### [Mojo Media Labs](http://mojomedialabs.com) // Director of Technology // Irving, TX // 8/2011-4/2012
 
  - Oversee all technical aspects of day to day operations as well as act as technical lead on all projects. Responsible for leading and managing junior developers.
  - Successfully brought several websites from conception to completion, designed and developed an iPhone app for [bkcert.org](http://bkcert.org/) using the PhoneGap framework.
