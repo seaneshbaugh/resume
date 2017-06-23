@@ -1,8 +1,21 @@
-# Objective
+# My Resume
 
- Seeking employment developing web based applications, software tools, or any position that requires a wide variety of technical knowledge.
+## Objective
+
+Seeking employment developing web based applications, software tools, or any position that requires a wide variety of technical knowledge.
 
 ## Experience
+
+### [BookShout!](https://www.bookshout.com/) // Senior Back End Developer // Plano, TX // 10/2015-Present
+
+ - Develop and maintain BookShout!'s back end Ruby on Rails infrastructure.
+ - Architected and developed the BookShout! shopping cart application using Ruby on Rails and React.
+
+### [Click Here Labs](http://clickherelabs.com/) // Back End Developer // Dallas, TX // 4/2012-10/2015
+
+ - Developed client websites using a variety of tools and frameworks, primarily Ruby on Rails.
+ - Provisioned and administered servers for client websites and internal applications.
+ - Completed websites include: [tgifridays.com](https://www.tgifridays.com/), [ddr.com](http://www.ddr.com/), [thdweeklyreels.com](http://thdweeklyreels.com/), [trainwithcae.com](http://trainwithcae.com/), [summerseve.com](http://www.summerseve.com/), [buttpaste.com](http://www.buttpaste.com/), [pedia-lax.com](http://pedia-lax.com/), [ultabeautylols.com](http://ultabeautylols.com/), [dreamfund.org](http://dreamfund.org/), [pcdphones.com](http://pcdphones.com/).
 
 ### [Mojo Media Labs](http://mojomedialabs.com) // Director of Technology // Irving, TX // 8/2011-4/2012
 
@@ -19,12 +32,6 @@
 
  - Developed a web based content management system using the Ruby on Rails framework to allow for simple and easy publication and control of content created by the content curator and the users.
  - Maintained website data with emphasis on continuous development of new features to streamline insertion of new and changing web content.
-
-
-### [Wolf Camera](http://www.wolfcamera.com/) // Sales Associate and Lab Assistant // Plano, TX // 11/2008-5/2009
-
- - Assisted in running the photo printing lab.
- - Achieved status as top ten camera sales person in the Dallas district for the month of April 2009.
 
 ### [Dallas Semiconductor](http://www.maxim-ic.com/) // Summer Intern // Dallas, TX // 5/2006-9/2006
 
@@ -44,32 +51,54 @@
  - Developed and implemented a method to accurately count the throughput of Cannon i-Line photo steppers. Involved extensive error checking to reconcile and account for re-processed wafers.
  - Modified stepper input parameters for existing wafer lots to achieve better production results and yields.
 
-##Computer Skills
+## Computer Skills
 
-###Programming Languages
+### Programming Languages
 
- - Ruby (especially Ruby on Rails)
+#### Fluent in:
+
+ - Ruby
  - JavaScript
  - HTML
  - CSS
+ - C
+
+#### Proficient in:
+
+ - Elixir
+ - C++
  - C#
- - C/C++
  - MySQL
- - Perl
  - Visual Basic
 
-###Operating Systems
+#### Conversant in:
 
- - Windows NT/XP/Vista/7
- - OSX 10.6
- - Ubuntu Linux
+ - Rust
+ - Erlang
+ - Scheme
+ - Haskell
+ - Common Lisp
+
+### Operating Systems
+
+ - macOS
+ - Ubuntu/Linux Mint
+ - centOS 6.5
+ - Windows 10/8/7
  - Solaris
 
-###Applications
+### Applications
 
- - MS Visual Studio 2010 and 2008
  - git
- - Adobe Photoshop
+ - clang/gcc
+ - Xcode
+ - MS Visual Studio 2012
  - GIMP
- - Open Office/Libre Office
+ - Adobe Photoshop
+ - Libre Office
  - MS Office
+
+### Web Servers
+
+ - Nginx
+ - Apache
